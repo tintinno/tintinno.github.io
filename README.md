@@ -1,1 +1,1 @@
-experimenting with GitHub Pages
+Just experimenting with GitHub pages.
